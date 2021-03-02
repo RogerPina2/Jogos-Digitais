@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 60b2de9272150d84182837f41cbfc084
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bloco: {fileID: 7626251981842430973, guid: 2984eaca84f96fb4daf1032c65dd9185, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
